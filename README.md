@@ -6,6 +6,8 @@ This repository showcases my solutions to the Jane Street's puzzles.
 
 ## Progress
 
+Username: Khanh Vu
+
 | Problem | Status |
 |------------|---|
 |   [April 2024](https://www.janestreet.com/puzzles/robot-capture-the-flag-index/)  |  ❌ (Wrong answer) |
