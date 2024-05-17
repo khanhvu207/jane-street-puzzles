@@ -1,6 +1,7 @@
 # jane-street-puzzles
 
 This repository showcases my solutions to the Jane Street's puzzles.
+I will publish my solution at the end of the month.
 
 [Current puzzle](https://www.janestreet.com/puzzles/current-puzzle/)
 
