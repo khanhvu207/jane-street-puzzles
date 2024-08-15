@@ -13,4 +13,4 @@ Username: Khanh Vu
 |------------|---|
 |   [April 2024](https://www.janestreet.com/puzzles/robot-capture-the-flag-index/)  |  ❌ (Wrong answer) |
 |   [May 2024](https://www.janestreet.com/puzzles/number-cross-4-index/)  |  ✅ (Solved)|
-| June 2024 |⏳ |
+| August 2024 | ✅ (Solved) |
