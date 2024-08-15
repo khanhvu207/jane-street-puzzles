@@ -9,8 +9,8 @@ I will publish my solution at the end of the month.
 
 Username: Khanh Vu
 
-| Problem | Status |
-|------------|---|
-|   [April 2024](https://www.janestreet.com/puzzles/robot-capture-the-flag-index/)  |  ❌ (Wrong answer) |
-|   [May 2024](https://www.janestreet.com/puzzles/number-cross-4-index/)  |  ✅ (Solved)|
-| August 2024 | ✅ (Solved) |
+| Problem | Status | My solution |
+|------------|---|---|
+|   [April 2024](https://www.janestreet.com/puzzles/robot-capture-the-flag-index/)  |  ❌ (Wrong answer) | |
+|   [May 2024](https://www.janestreet.com/puzzles/number-cross-4-index/)  |  ✅ (Solved)| [Solution](https://github.com/khanhvu207/jane-street-puzzles/tree/main/may24) |
+| August 2024 | ✅ (Solved) | |
